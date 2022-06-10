@@ -2,7 +2,7 @@
 Unlicensed
     
 ## Description
-Game Store backend microservices with eureka registry and config server.   
+Music Store backend microservices .   
 
 ## Table Of Contents
 * [Installation](#user-content-use)
