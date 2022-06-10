@@ -38,3 +38,4 @@ create table track (
     index fk_album_id (album_id),
     foreign key (album_id)
         references album(album_id)
+);
